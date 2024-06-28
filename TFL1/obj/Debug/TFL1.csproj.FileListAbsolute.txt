@@ -1,0 +1,48 @@
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\bin\Debug\TFL1.exe.config
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\bin\Debug\TFL1.exe
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\bin\Debug\TFL1.pdb
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.Form1.resources
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.Properties.Resources.resources
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.exe
+C:\Users\pablo\source\repos\KursachDLL\TFL1\TFL1\obj\Debug\TFL1.pdb
+C:\Users\Misha\source\repos\TFL1\TFL1\bin\Debug\TFL1.exe.config
+C:\Users\Misha\source\repos\TFL1\TFL1\bin\Debug\TFL1.exe
+C:\Users\Misha\source\repos\TFL1\TFL1\bin\Debug\TFL1.pdb
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.Form1.resources
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.Properties.Resources.resources
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.exe
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.pdb
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\Misha\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.ResolveComReference.cache
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.ResolveComReference.cache
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.exe
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.pdb
+C:\Users\pablo\source\repos\TFL1\TFL1\bin\Debug\TFL1.exe.config
+C:\Users\pablo\source\repos\TFL1\TFL1\bin\Debug\TFL1.exe
+C:\Users\pablo\source\repos\TFL1\TFL1\bin\Debug\TFL1.pdb
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.Form1.resources
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.Properties.Resources.resources
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\TFL1\TFL1\obj\Debug\TFL1.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.csproj.AssemblyReference.cache
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.csproj.ResolveComReference.cache
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.exe
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.pdb
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\bin\Debug\TFL1.exe.config
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\bin\Debug\TFL1.exe
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\bin\Debug\TFL1.pdb
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.Form1.resources
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.Properties.Resources.resources
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.csproj.GenerateResource.cache
+C:\Users\Misha\Downloads\TFL1 (1)\TFL1\TFL1\obj\Debug\TFL1.csproj.CoreCompileInputs.cache
